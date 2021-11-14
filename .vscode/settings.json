@@ -1,0 +1,9 @@
+{
+    "files.eol": "\r\n",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "javascript.format.semicolons": "insert"
+}
